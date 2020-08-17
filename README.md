@@ -1,6 +1,5 @@
 # COVID-19 Tracker
 
-# Realtime Chat Application
 
 
 <a href="https://github.com/thisisabhisharma/Covid-19-tracker">
